@@ -102,6 +102,14 @@
         background-color: red;
 
     }
+    .banner .banner-button2{
+        position: relative;
+    }
+    .banner .banner-button2 .buttonicon{
+        position: absolute;
+        top: 22px;
+        right: 24px;
+    }
      /* <!-- --------------------
      Banner part end
      ----------------------- --> */
